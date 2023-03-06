@@ -2,6 +2,10 @@
 //para instalar todas las dependencias que se necesitan, se descarga el package.json que tenemos y se escribe en el terminal : npm i, y se instala todas las dependencias que tiene package.json
 // para agrega import de handlebars: https://www.npmjs.com/package/express-handlebars
 
+
+sssssssssssssssssssssssss
+
+
 import express from "express";
 import routerProduct from "./routes/productos.routes.js";
 import routerSocket from "./routes/socket.routes.js";
