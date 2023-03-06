@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        
+        {
+            "type": "msedge",
+            "name": "https://github.com/CixJuanCarlosMorales/Backend-Clase12.git",
+            "request": "launch",
+            "url": "https://github.com/CixJuanCarlosMorales/Backend-Clase12.git"
+        }
+    ]
+}
